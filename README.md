@@ -1,4 +1,4 @@
-# 🚀 Abubakar Hussain Manhusayn | DevOps & Cloud Engineer
+# 🚀 Abubakar Hussain | DevOps & Cloud Engineer
 📍 Bangalore / Open to Pune | Hyderabad | 📧 abubakarnaumanh@gmail.com | 🔗 https://linkedin.com/in/abubakarhussain
 
 I specialize in building secure, automated, and highly resilient cloud infrastructure. 
